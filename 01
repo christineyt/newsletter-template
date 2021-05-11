@@ -1,0 +1,471 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title></title>
+
+<style>
+  body {
+  margin: 0;
+  padding: 0;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  }
+  table {
+  border-spacing: 0;
+  }
+  table td {
+  border-collapse: collapse;
+  }
+  .ExternalClass {
+  width: 100%;
+  }
+  .ExternalClass,
+  .ExternalClass p,
+  .ExternalClass span,
+  .ExternalClass font,
+  .ExternalClass td,
+  .ExternalClass div {
+  line-height: 100%;
+  }
+  .ReadMsgBody {
+  width: 100%;
+  background-color: #ebebeb;
+  }
+  table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  }
+  img {
+  -ms-interpolation-mode: bicubic;
+  }
+  .yshortcuts a {
+  border-bottom: none !important;
+  }
+  
+  .col-nav a {
+  color: #ffffff !important;
+  }
+  
+  @media screen and (max-width: 599px) {
+  .force-row,
+  .container {
+  width: 100% !important;
+  max-width: 100% !important;
+  }
+  
+  td[class="fluid"]{
+  display: block !important;
+  width: 100% !important;
+  clear: both;
+  text-align: center;
+  }
+  
+  .img-wrapper.no-float {
+  width: 100% !important;
+  }
+  
+  }
+  @media screen and (max-width: 400px) {
+  .container-padding {
+  padding-left: 12px !important;
+  padding-right: 12px !important;
+  }
+  }
+  .ios-footer a {
+  color: #aaaaaa !important;
+  text-decoration: underline;
+  }
+  @media screen and (max-width: 599px) {
+  .col {
+  width: 100% !important;
+  padding-bottom: 0 !important;
+  }
+  .col-static {
+  padding-bottom: 0 !important;
+  }
+  .cols-quote .col {
+  width: inherit !important;
+  }
+  .cols-quote .col {
+  width: inherit !important;
+  }
+  .cols-header .col {
+  width: inherit !important;
+  }
+  .col-book .col {
+  padding-bottom: 24px !important;
+  }
+  .cols-company .col,
+  .cols-unsubscribe .col {
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+  }
+  .cols-wrapper.cols-nav {
+  padding-top: 0;
+  }
+  .img-wrapper {
+  float: right;
+  max-width: 40% !important;
+  height: auto !important;
+  margin-left: 12px;
+  }
+  .img-wrapper.no-float {
+  float: none;
+  max-width: 100% !important;
+  margin-left: 0;
+  }
+  .img-wrapper img {
+  width: auto !important;
+  }
+  .cols4 .img-wrapper {
+  float: left;
+  margin-left: 0;
+  margin-right: 12px;
+  }
+  .subtitle {
+  margin-top: 0 !important;
+  }
+  }
+  @media screen and (max-width: 400px) {
+  .cols-wrapper {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  }
+  .content-wrapper {
+  padding-left: 12px !important;
+  padding-right: 12px !important;
+  }
+  .col-nav td {
+  padding-left: 12px !important;
+  padding-right: 6px !important;
+  }
+  }
+  
+  </style>
+
+</head>
+
+<body bgcolor="#e5e4e1">
+      <body bgcolor="#eeeeee" link="#74cad9" alink="#74cad9" vlink="#74cad9" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="background-color: #eeeeee; color: #888888; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; margin: 0; padding: 0;">
+
+        <!-- 100% background wrapper (grey background) -->
+        <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+        <tbody><tr>
+        <td align="center" valign="top" bgcolor="#eeeeee" style="background-color: #eeeeee;">
+        <br>
+        <!-- 600px container (white background) -->
+        <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" style="max-width: 600px; width: 600px;">
+        <tbody><tr>
+        <td class="container-padding header" align="center" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; font-size: 75%; padding-bottom: 12px; padding-left: 24px; padding-right: 24px;">
+        CALL US:0800.800.800 | <a href="#" style="color: #888888;" data-hs-link-id="0" target="_blank">VISIT OUR WEBSITE</a>
+        </td>
+        </tr>
+        
+        <tr>
+        <td class="content" align="left" style="background-color: #ffffff; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-bottom: 12px;">
+        
+        <table width="600" border="0" cellpadding="0" cellspacing="0" class="force-row" style="width: 600px;">
+        
+        <tbody><tr>
+        <td class="cols-wrapper cols2 cols-header" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-bottom: 15px; padding-left: 12px; padding-right: 12px; padding-top: 15px;">
+        
+        <!--[if mso]>
+        <table border="0" width="576" cellpadding="0" cellspacing="0" style="width: 576px;">
+        <tr><td width="576" style="width: 576px;" valign="top">
+        <![endif]-->
+        <table width="576" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row" style="width: 576px;">
+        <tbody><tr>
+        <td class="col" valign="top" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-bottom: 12px; padding-left: 12px; padding-right: 12px; padding-top: 18px;">
+        <!--[if mso]>
+        <table border="0" width="552" cellpadding="0" cellspacing="0" style="width: 552px;">
+        <tr><td width="552" style="width: 552px;" valign="top">
+        <![endif]-->
+        <table width="552" border="0" cellpadding="0" cellspacing="0" class="force-row" style="width: 552px;">
+        <tbody><tr>
+        <td style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif;"><a href="http://lp.24-7.co.jp" id="hs-link-logo" style="border-width:0px;border:0px;" data-hs-link-id="0" target="_blank"><img src="https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/logo.png?width=322&amp;upscale=true&amp;name=logo.png" class="hs-image-widget " style="max-height:46px; max-width:161px; border-width:0px;border:0px;" width="161" alt="24-7" title="24-7" srcset="https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/logo.png?upscale=true&amp;width=322&amp;upscale=true&amp;name=logo.png 161w, https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/logo.png?upscale=true&amp;width=644&amp;upscale=true&amp;name=logo.png 322w" sizes="(max-width: 161px) 100vw, 161px"></a></td>
+        <td valign="middle" align="right" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif;">
+        <span class="col-copy col-right" style="color: #888888; font-size: 13px; line-height: 1.7em; text-align: right;">Company Slogan If you need.</span>
+        <br>
+        </td>
+        </tr>
+        </tbody></table>
+        <!--[if mso]></td></tr></table><![endif]-->
+        </td>
+        </tr>
+        </tbody></table>
+        <!--[if mso]></td></tr></table><![endif]-->
+        </td>
+        </tr>
+        
+        
+        
+        
+        
+        <tr>
+        <td class="cols-wrapper col1 cols-nav" style="background-color: #74cad9; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-left: 12px; padding-right: 12px;">
+        <!--[if mso]>
+        <table border="0" width="576" cellpadding="0" cellspacing="0" style="width: 576px;">
+        <tr><td width="576" style="width: 576px;" valign="top">
+        <![endif]-->
+        <table width="576" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row" style="width: 576px;">
+        <tbody><tr>
+        <td class="col-nav" valign="top" style="color: #ffffff; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; font-size: 75%; font-weight: bold;">
+        <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+        
+        <td style="color: #ffffff; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding: 12px;">
+        <div id="hs_cos_wrapper_navigation_link_1" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="#" style="color: inherit; text-decoration: none;" data-hs-link-id="1" target="_blank">HOME</a></div>
+        </td>
+        
+        
+        
+        <td style="color: #ffffff; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding: 12px;">
+        <div id="hs_cos_wrapper_navigation_link_2" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="#" style="color: inherit; text-decoration: none;" data-hs-link-id="2" target="_blank">ABOUT</a></div>
+        </td>
+        
+        
+        
+        <td style="color: #ffffff; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding: 12px;">
+        <div id="hs_cos_wrapper_navigation_link_3" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="#" style="color: inherit; text-decoration: none;" data-hs-link-id="3" target="_blank">WORKS</a></div>
+        </td>
+        
+        
+        
+        <td style="color: #ffffff; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding: 12px;">
+        <div id="hs_cos_wrapper_navigation_link_4" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="#" style="color: inherit; text-decoration: none;" data-hs-link-id="4" target="_blank">BLOG</a></div>
+        </td>
+        
+        
+        
+        <td style="color: #ffffff; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding: 12px;">
+        <div id="hs_cos_wrapper_navigation_link_5" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="#" style="color: inherit; text-decoration: none;" data-hs-link-id="5" target="_blank">CONTACT</a></div>
+        </td>
+        
+        </tr>
+        </tbody></table>
+        </td>
+        </tr>
+        </tbody></table>
+        <!--[if mso]></td></tr></table><![endif]-->
+        </td>
+        </tr>
+        
+        
+        
+        <tr>
+        <td style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif;">
+        <div id="hs_cos_wrapper_hero_1" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/600x315_1.png?width=1200&amp;upscale=true&amp;name=600x315_1.png" class="hs-image-widget " style="max-width:600px; border-width:0px;border:0px;max-width:100%;" width="600" hspace="0" alt="" title="" srcset="https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/600x315_1.png?upscale=true&amp;width=1200&amp;upscale=true&amp;name=600x315_1.png 600w, https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/600x315_1.png?upscale=true&amp;width=2400&amp;upscale=true&amp;name=600x315_1.png 1200w" sizes="(max-width: 600px) 100vw, 600px"></div>
+        </td>
+        </tr>
+        
+        <tr>
+        <td class="cols-wrapper cols1" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-left: 12px; padding-right: 12px;">
+        <!--[if mso]>
+        <table border="0" width="576" cellpadding="0" cellspacing="0" style="width: 576px;">
+        <tr><td width="576" style="width: 576px;" valign="top">
+        <![endif]-->
+        <table width="576" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row" style="width: 576px;">
+        <tbody><tr>
+        <td class="col" valign="top" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-bottom: 12px; padding-left: 12px; padding-right: 12px; padding-top: 18px;">
+        <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+        <td class="subtitle" style="color: #000000; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; font-size: 20px; font-weight: 600; padding-bottom: 10px;">
+        <div id="hs_cos_wrapper_big_entry_title_1" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text">Lorem ipsum dolor sit amet</div>
+        </td>
+        </tr>
+        </tbody></table>
+        <div class="col-copy" style="color: #888888; font-size: 13px; line-height: 1.7em; text-align: left;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </div>
+        <br>
+        <table width="260" height="48" border="0" cellpadding="0" cellspacing="0" align="center" class="button" style="background-color: #74cad9; border-radius: 5px; color: #ffffff; height: 48px; line-height: 100%; margin: 0 auto; padding-bottom: 12px; padding-top: 12px; text-align: center; width: 260px;">
+        <tbody><tr>
+        <td style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif;">
+        <div id="hs_cos_wrapper_big_entry_link_1" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="#" style="color: #ffffff; font-weight: bold; text-decoration: none;" data-hs-link-id="6" target="_blank">READ MORE</a></div>
+        </td>
+        </tr>
+        </tbody></table>
+        <br>
+        </td>
+        </tr>
+        </tbody></table>
+        <!--[if mso]></td></tr></table><![endif]-->
+        </td>
+        </tr>
+        
+        <tr>
+        <td class="cols-wrapper" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-left: 12px; padding-right: 12px;">
+        <!--[if mso]>
+        <table border="0" width="576" cellpadding="0" cellspacing="0" style="width: 576px;">
+        <tr><td width="576" style="width: 576px;" valign="top">
+        <![endif]-->
+        
+        <table width="576" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row" style="width: 576px;">
+        <tbody><tr>
+        <td class="col" valign="top" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-bottom: 12px; padding-left: 12px; padding-right: 12px; padding-top: 18px;">
+        <br>
+        <!--[if mso]>
+        <table border="0" width="552" cellpadding="0" cellspacing="0" style="width: 552px;">
+        <tr><td width="552" style="width: 552px;" valign="top">
+        <![endif]-->
+        
+        
+        <table width="552" border="0" cellpadding="0" cellspacing="0" class="force-row" style="width: 552px;">
+        <tbody><tr>
+        <td class="fluid" width="30%" valign="top" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif;">
+        <table border="0" cellpadding="0" cellspacing="0" class="img-wrapper no-float">
+        <tbody><tr>
+        <td style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-bottom: 10px;"><img src="https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/168x125_graph_1.png?width=336&amp;upscale=true&amp;name=168x125_graph_1.png" class="hs-image-widget " style="max-height:125px; max-width:168px; border-width:0px;border:0px;max-width:100%;" width="168" hspace="0" alt="" title="" srcset="https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/168x125_graph_1.png?upscale=true&amp;width=336&amp;upscale=true&amp;name=168x125_graph_1.png 168w, https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/168x125_graph_1.png?upscale=true&amp;width=672&amp;upscale=true&amp;name=168x125_graph_1.png 336w" sizes="(max-width: 168px) 100vw, 168px"></td>
+        </tr>
+        </tbody></table>
+        </td>
+        <td class="fluid" width="70%" valign="top" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif;">
+        <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+        <td class="subtitle" style="color: #000000; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; font-size: 14px; font-weight: 600; padding-bottom: 10px;">
+        <div id="hs_cos_wrapper_vertical_entry_title_1" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text">Lorem ipsum dolor sit amet</div>
+        </td>
+        </tr>
+        </tbody></table>
+        <div class="col-copy" style="color: #888888; font-size: 13px; line-height: 1.7em; text-align: left;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </div>
+        </td>
+        </tr>
+        </tbody></table>
+        <br>
+        
+        
+        
+        <table width="552" border="0" cellpadding="0" cellspacing="0" class="force-row" style="width: 552px;">
+        <tbody><tr>
+        <td class="fluid" width="30%" valign="top" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif;">
+        <table border="0" cellpadding="0" cellspacing="0" class="img-wrapper no-float">
+        <tbody><tr>
+        <td style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-bottom: 10px;"><img src="https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/168x125_graph_2.png?width=336&amp;upscale=true&amp;name=168x125_graph_2.png" class="hs-image-widget " style="max-height:125px; max-width:168px; border-width:0px;border:0px;max-width:100%;" width="168" hspace="0" alt="" title="" srcset="https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/168x125_graph_2.png?upscale=true&amp;width=336&amp;upscale=true&amp;name=168x125_graph_2.png 168w, https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/168x125_graph_2.png?upscale=true&amp;width=672&amp;upscale=true&amp;name=168x125_graph_2.png 336w" sizes="(max-width: 168px) 100vw, 168px"></td>
+        </tr>
+        </tbody></table>
+        </td>
+        <td class="fluid" width="70%" valign="top" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif;">
+        <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+        <td class="subtitle" style="color: #000000; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; font-size: 14px; font-weight: 600; padding-bottom: 10px;">
+        <div id="hs_cos_wrapper_vertical_entry_title_2" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text">Lorem ipsum dolor sit amet</div>
+        </td>
+        </tr>
+        </tbody></table>
+        <div class="col-copy" style="color: #888888; font-size: 13px; line-height: 1.7em; text-align: left;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </div>
+        </td>
+        </tr>
+        </tbody></table>
+        <br>
+        
+        
+        
+        <table width="552" border="0" cellpadding="0" cellspacing="0" class="force-row" style="width: 552px;">
+        <tbody><tr>
+        <td class="fluid" width="30%" valign="top" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif;">
+        <table border="0" cellpadding="0" cellspacing="0" class="img-wrapper no-float">
+        <tbody><tr>
+        <td style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-bottom: 10px;"><img src="https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/168x125_graph_3.png?width=336&amp;upscale=true&amp;name=168x125_graph_3.png" class="hs-image-widget " style="max-height:125px; max-width:168px; border-width:0px;border:0px;max-width:100%;" width="168" hspace="0" alt="" title="" srcset="https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/168x125_graph_3.png?upscale=true&amp;width=336&amp;upscale=true&amp;name=168x125_graph_3.png 168w, https://lp.24-7.co.jp/hs-fs/hubfs/marketplace/email-basic/168x125_graph_3.png?upscale=true&amp;width=672&amp;upscale=true&amp;name=168x125_graph_3.png 336w" sizes="(max-width: 168px) 100vw, 168px"></td>
+        </tr>
+        </tbody></table>
+        </td>
+        <td class="fluid" width="70%" valign="top" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif;">
+        <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+        <td class="subtitle" style="color: #000000; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; font-size: 14px; font-weight: 600; padding-bottom: 10px;">
+        <div id="hs_cos_wrapper_vertical_entry_title_3" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text">Lorem ipsum dolor sit amet</div>
+        </td>
+        </tr>
+        </tbody></table>
+        <div class="col-copy" style="color: #888888; font-size: 13px; line-height: 1.7em; text-align: left;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </div>
+        </td>
+        </tr>
+        </tbody></table>
+        <br>
+        
+        
+        <!--[if mso]></td></tr></table><![endif]-->
+        </td>
+        </tr>
+        </tbody></table>
+        <!--[if mso]></td></tr></table><![endif]-->
+        </td>
+        </tr>
+        
+        <tr>
+        <td class="cols-wrapper cols-company col1" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-left: 12px; padding-right: 12px; padding-top: 20px;">
+        <!--[if mso]>
+        <table border="0" width="576" cellpadding="0" cellspacing="0" style="width: 576px;">
+        <tr><td width="576" style="width: 576px;" valign="top">
+        <![endif]-->
+        <table width="576" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row" style="width: 576px;">
+        <tbody><tr>
+        <td class="col col-company" valign="top" style="border-top: 1px solid #ccc; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-bottom: 12px; padding-left: 12px; padding-right: 12px; padding-top: 18px;">
+        <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+        <td style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif;">
+        <div class="col-copy" style="color: #333; font-size: 13px; line-height: 1.7em; text-align: left;">
+        <div id="hs_cos_wrapper_company_information" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text">© 2016 株式会社24-7<br>
+        東京都 中央区 東劇ビル2階 築地4-1-1<br>
+        http://24-7.co.jp/</div>
+        </div>
+        </td>
+        </tr>
+        </tbody></table>
+        </td>
+        </tr>
+        </tbody></table>
+        <!--[if mso]></td></tr></table><![endif]-->
+        </td>
+        </tr>
+        <tr>
+        <td class="cols-wrapper cols-unsubscribe col1" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-left: 12px; padding-right: 12px;">
+        <!--[if mso]>
+        <table border="0" width="576" cellpadding="0" cellspacing="0" style="width: 576px;">
+        <tr><td width="576" style="width: 576px;" valign="top">
+        <![endif]-->
+        <table width="576" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row" style="width: 576px;">
+        <tbody><tr>
+        <td class="col col-unsubscribe" valign="top" style="border-top: 1px solid #ccc; color: #888888; font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; padding-bottom: 12px; padding-left: 12px; padding-right: 12px; padding-top: 18px;">
+        <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+        <td style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; font-size: 13px;">
+        <div class="col-copy" style="color: #888888; font-size: 75%; line-height: 1.7em; text-align: left;">
+        <div id="hs_cos_wrapper_unsubscribe" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text">You received this email because you are subscribed to emails from 株式会社24-7. If you prefer no to receive emails from 株式会社24-7 you may <a target="_blank" href="https://www.24-7.co.jp/hs/manage-preferences/unsubscribe-all-test?d=VmXVHY95p3FmW3Kchm745RjxMW3Kchm745RjxqN3Fbt5jXk_7QVbwfqm40xw7vW72t7Y-5tqyqPw1v3ZM1hpg2&amp;v=3" data-unsubscribe="true" style="color: #888888;" data-hs-link-id="0">unsubscribe</a> or set your email <a target="_blank" href="https://www.24-7.co.jp/hs/manage-preferences/unsubscribe-test?d=VmXVHY95p3FmW3Kchm745RjxMW3Kchm745RjxqN3Fbt5jXk_7QVbwfqm40xw7vW72t7Y-5tqyqPw1v3ZM1hpg2&amp;v=3" data-unsubscribe="true" style="color: #888888;" data-hs-link-id="0">preferences</a>.</div>
+        </div>
+        </td>
+        </tr>
+        </tbody></table>
+        </td>
+        </tr>
+        </tbody></table>
+        <!--[if mso]></td></tr></table><![endif]-->
+        </td>
+        </tr>
+        
+        </tbody></table>
+        
+        </td>
+        </tr>
+        </tbody></table>
+        <!--/600px container -->
+        </td>
+        </tr>
+        </tbody></table>
+        <br>
+        
+        
+        
+        
+        </body>
+
+</html>
